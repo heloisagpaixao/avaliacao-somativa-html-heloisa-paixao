@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-color: rgb(255, 250, 250);
+}
+
+h1 {
+    color: rgb(200, 0, 0);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(91, 0, 0);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../src/images/paletaDeCores.png);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(91, 0, 0);
+}
+
+button{
+    color: rgb(90, 0, 0);
+}
+
+h4 {
+    color: rgb(91, 0, 0);
+    text-align: center;
+}
+
+p {
+    color: rgb(0, 0, 0)
+}
+
+video {
+    width: 100%;
+}
+
+img {
+    
+    width: 300px;
+}
+
+a {
+    color: rgb(255, 1, 1);
+}
